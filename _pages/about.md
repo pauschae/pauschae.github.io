@@ -15,8 +15,8 @@ redirect_from:
 <h2>Publications</h2>
 
 ---
-** Project 1
-(with [me](jpreusser.github.io))
+**Project 1**
+(with [me](http://jpreusser.github.io))
 <details>
   <summary>Abstract</summary>
 
@@ -25,8 +25,31 @@ redirect_from:
 ---
 
 ---
-** Project 1
-(with [me](jpreusser.github.io))
+**Project 1**
+(with [me](http://jpreusser.github.io))
+<details>
+<summary>Abstract</summary>
+
+We do this and that, and a bit of something else.
+</details>
+---
+
+
+<h2>Working Papers</h2>
+
+---
+**Project 1**
+(with [me](http://jpreusser.github.io))
+<details>
+  <summary>Abstract</summary>
+
+  We do this and that, and a bit of something else.
+</details>
+---
+
+---
+**Project 1**
+(with [me](http://jpreusser.github.io))
 <details>
 <summary>Abstract</summary>
 
