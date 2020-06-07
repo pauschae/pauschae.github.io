@@ -15,7 +15,7 @@ redirect_from:
 <h2>Publications</h2>
 
 ---
-#### Project 1
+** Project 1
 (with [me](jpreusser.github.io))
 <details>
   <summary>Abstract</summary>
@@ -25,7 +25,7 @@ redirect_from:
 ---
 
 ---
-#### Project 1
+** Project 1
 (with [me](jpreusser.github.io))
 <details>
 <summary>Abstract</summary>
