@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr Test / Personal Website"
+title                    : "Justus Preusser / Personal Website"
 title_separator          : "-"
-name                     : &name "Mr Test"
+name                     : &name "Justus Preusser"
 description              : &description "personal description"
 url                      : https://JPreusser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Justus Preusser"
   avatar           : #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hi, I am a Ph.D. student at the Bonn Graduate School of Economics. My main interests are in economic theory, particularly game theory and mechanism design."
+  location         : "Bonn"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "justus.preusser(at)uni-bonn.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
