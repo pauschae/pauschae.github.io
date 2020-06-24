@@ -42,6 +42,7 @@ We do this and that, and a bit of something else.
 (with [Andre Speit](https://sites.google.com/view/andrespeit))
 
 Manuscript coming soon.
+
 <!-- <details>
   <summary>Abstract</summary>
 
@@ -54,6 +55,7 @@ Manuscript coming soon.
 (with [Axel Niemeyer](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/axel-niemeyer))
 
 Manuscript coming soon.
+
 <!-- <details>
 <summary>Abstract</summary>
 
