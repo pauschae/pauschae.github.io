@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Justus Preusser / Personal Website"
 title_separator          : "-"
 name                     : &name "Justus Preusser"
-description              : &description "Ph.D. student at the Bonn Graduate School of Economics."
+description              : #&description "Ph.D. student at the Bonn Graduate School of Economics."
 url                      : https://JPreusser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JPreusser/JPreusser.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Justus Preusser"
   avatar           : "profile.png"
-  bio              : #"Hi, I am a Ph.D. student at the Bonn Graduate School of Economics. My main interests are in economic theory, particularly game theory and mechanism design."
+  bio              : "Hi, I am a Ph.D. student at the Bonn Graduate School of Economics. My main interests are in economic theory, particularly game theory and mechanism design."
   location         : "Bonn"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
