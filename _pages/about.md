@@ -37,11 +37,14 @@ We do this and that, and a bit of something else.
 
 <h2>Working Papers</h2>
 
+Coming soon.
+
+
 ---
-**Sequential Common-Value Trade**
+<!-- **Sequential Common-Value Trade**
 (with [Andre Speit](https://sites.google.com/view/andrespeit))
 
-Manuscript coming soon.
+Manuscript coming soon. -->
 
 <!-- <details>
   <summary>Abstract</summary>
@@ -50,11 +53,13 @@ Manuscript coming soon.
 </details> -->
 ---
 
+
+
 ---
-**On Simple Allocation with Correlated Types**
+<!-- **On Simple Allocation with Correlated Types**
 (with [Axel Niemeyer](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/axel-niemeyer))
 
-Manuscript coming soon.
+Manuscript coming soon. -->
 
 <!-- <details>
 <summary>Abstract</summary>
