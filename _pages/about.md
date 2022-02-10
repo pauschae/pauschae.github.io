@@ -39,10 +39,10 @@ We do this and that, and a bit of something else.
 
 
 ---
-**Mechanisms without transfers for fully biased agents**
+**[Mechanisms without transfers for fully biased agents](http://jpreusser.github.io/files/correlatedallocation.pdf)**
 (with [Deniz Kattwinkel](https://sites.google.com/view/kattwinkel), [Axel Niemeyer](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/axel-niemeyer) and [Alexander Winter](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/alexander-winter))
 
-[Working paper](http://jpreusser.github.io/files/correlatedallocation.pdf)
+<!-- [Working paper](http://jpreusser.github.io/files/correlatedallocation.pdf) -->
 
 <details>
   <summary>Abstract</summary>
