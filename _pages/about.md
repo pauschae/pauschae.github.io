@@ -36,7 +36,7 @@ We do this and that, and a bit of something else.
 
 <h2>Working papers</h2>
 
-- [Simple allocation with correlated types](http://jpreusser.github.io/files/simple_allocation_july_2022.pdf)
+- [Simple allocation with correlated types](http://jpreusser.github.io/files/simple_allocation.pdf)
 (with [Axel Niemeyer](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/axel-niemeyer))
 
 <!-- <details>
