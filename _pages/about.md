@@ -9,50 +9,33 @@ redirect_from:
 ---
 
 
+<h2>Job market paper</h2>
 
-<!-- [CV](http://academicpages.github.io/files/paper1.pdf) -->
+- [Simple allocation with correlated types](http://jpreusser.github.io/files/simple_allocation.pdf)
+(with [Axel Niemeyer](https://sites.google.com/view/axelniemeyer))
 
-<!-- <h2>Publications</h2>
-
----
-**Project 1**
-(with [me](http://jpreusser.github.io))
 <details>
   <summary>Abstract</summary>
-
-  We do this and that, and a bit of something else.
+    A single indivisible object is to be allocated to a group of agents who all desire the object.
+    The efficient allocation depends on the private information of the agents.
+    In particular, each agent may have information about the value of allocating to the others.
+    Monetary transfers are unavailable.
+    We study optimal dominant-strategy incentive-compatible (DIC) mechanisms.
+    Our main results make a case for *jury mechanisms*.
+    A jury mechanism splits the agents into a set of jurors and a set of candidates.
+    The jury decides which of the candidates wins the object; jury members never win the object.
+    Jury mechanisms are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic DIC mechanisms satisfying an anonymity axiom.
+    Exactly optimal DIC mechanisms may require commitment to random allocations.
+    We fully characterize when all extreme points of the set of DIC mechanisms are deterministic.
 </details>
----
 
----
-**Project 1**
-(with [me](http://jpreusser.github.io))
-<details>
-<summary>Abstract</summary>
 
-We do this and that, and a bit of something else.
-</details>
---- -->
 
 <h2>Working papers</h2>
 
-- [Simple allocation with correlated types](http://jpreusser.github.io/files/simple_allocation.pdf)
-(with [Axel Niemeyer](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/axel-niemeyer))
-
-<!-- <details>
-  <summary>Abstract</summary>
-    A principal allocates a single indivisible object to one of $n$ agents who all want it.
-    The agents have private information that is valuable to the principal.
-    In particular, each agent may have information about the principal's payoff from allocating to the others.
-    Without using monetary transfers, the principal designs a dominant-strategy IC mechanism.
-    Our main results make a case for *jury mechanisms*.
-    Such a mechanism splits the agents into a set of jurors and a set of candidates.
-    The jury decides which of the candidates wins the object. Jury mechanisms are optimal within a restricted set of mechanisms, and approximately optimal in symmetric environments with many agents.
-    In general, exactly-optimal DIC mechanisms may require the principal to commit to random allocations.
-</details> -->
 
 - [Mechanisms without transfers for fully biased agents](http://jpreusser.github.io/files/2205.10910.pdf)
-(with [Deniz Kattwinkel](https://sites.google.com/view/kattwinkel), [Axel Niemeyer](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/axel-niemeyer) and [Alexander Winter](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/alexander-winter))
+(with [Deniz Kattwinkel](https://sites.google.com/view/kattwinkel), [Axel Niemeyer](https://sites.google.com/view/axelniemeyer) and [Alexander Winter](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/alexander-winter))
 
     > [Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22.
 
@@ -63,5 +46,9 @@ We do this and that, and a bit of something else.
 
 - Transparency in sequential common-value trade
 (with [Andre Speit](https://sites.google.com/view/andrespeit))
+
+  Coming soon.
+
+- Costly evidence and the value of commitment
 
   Coming soon.

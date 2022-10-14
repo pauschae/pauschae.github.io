@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Justus Preusser"
   avatar           : "profile.png"
-  bio              : "Hi, I am a Ph.D. student at the Bonn Graduate School of Economics. My main interests are in economic theory, particularly game theory and mechanism design."
+  # bio              : "Hi, I am a Ph.D. student at the Bonn Graduate School of Economics. My main interests are in economic theory, particularly game theory and mechanism design."
   location         : "Bonn"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
