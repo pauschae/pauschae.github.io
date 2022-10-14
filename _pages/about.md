@@ -12,7 +12,7 @@ Hi!
 I am a Ph.D. student in Economics at the University of Bonn.
 My main research interests are in microeconomic theory, with a focus on allocation problems without money.
 
-You can reach me at <firstname.lastname@uni-bonn.de>.
+You can reach me at `firstname.lastname@uni-bonn.de`.
 
 You can find my CV [here](http://jpreusser.github.io/files/CV.pdf).
 
