@@ -46,7 +46,7 @@ You can find my CV [here](https://jpreusser.github.io/files/CV.pdf).
 (with [Deniz Kattwinkel](https://sites.google.com/view/kattwinkel), [Axel Niemeyer](https://sites.google.com/view/axelniemeyer) and [Alexander Winter](https://www.bgse.uni-bonn.de/en/people/student-directory/2018/alexander-winter))
 
     <!-- > [Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22. -->
-    - `[Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22.`
+    - [Extended abstract](https://dl.acm.org/doi/10.1145/3490486.3538317) accepted at EC' 22.
 
     - <details>
         <summary>Abstract</summary>
