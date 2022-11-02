@@ -42,7 +42,6 @@ When firms exploit behavioral biases it is natural to think that, eventually, co
 </details>
 
 <br />
-<br />
 
 [Norm Prevalence and Interdependence: Evidence from a Large-Scale Historical Survey of German speaking Villages](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_118_2021.pdf)
 (with [Radost Holler](https://sites.google.com/view/radostholler/))
