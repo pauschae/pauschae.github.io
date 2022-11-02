@@ -41,6 +41,8 @@ Second, an adjusted common ownership model (linear directed altruism) rationaliz
 When firms exploit behavioral biases it is natural to think that, eventually, consumers will learn to avoid their mistakes, which limits exploitation. Profit maximizing firms, however, have an incentive to undermine such learning. We study these learning dynamics in a multi-unit descending price auction setting with a simultaneous fixed price offer. We analyze 8 million bids from over 280.000 unique bidders in retail auctions. Consumers frequently bid more than the fixed price offered by the same seller. Depending on rival bidders actions, those overbids sometimes lead to paying more than the fixed price (overpaying). We argue overpaying increases saliency of the consumers’ mistake by making it payoff relevant and thereby may effect consumer learning. Indeed, bidders who overpaid subsequently overbid less often and are more likely to refrain from submitting a bid compared to bidders who overbid but did not overpay. Methodologically, we discuss identification of our treatment effects using causal graphs and show how these treatment effects identify a three-type structural model of bidder behavior with learning dynamics.
 </details>
 
+<br />
+<br />
 
 [Norm Prevalence and Interdependence: Evidence from a Large-Scale Historical Survey of German speaking Villages](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_118_2021.pdf)
 (with [Radost Holler](https://sites.google.com/view/radostholler/))
