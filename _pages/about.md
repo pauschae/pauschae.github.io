@@ -9,33 +9,24 @@ redirect_from:
 ---
 
 Hi!
-I am a Ph.D. student in Economics at the University of Bonn.
-My main research interests are in economic theory, with primary interests in mechanism design without money and secondary interests in information design.
+I am a researcher in applied microeconomics focusing on Behavioral Industrial Organization and Cultural/Institutional Economics.
+I research how social relationships interact with economic institutions. 
 
 I will be on the 2022/23 job market and available for interviews in December and January.
 
 You can reach me at `firstname.lastname@uni-bonn.de`.
 
-You can find my CV [here](https://jpreusser.github.io/files/CV.pdf).
+You can find my CV [here](https://pauschae.github.io/files/CV.pdf).
 
 <h2>Job market paper</h2>
 
-[Simple allocation with correlated types](https://jpreusser.github.io/files/simple_allocation.pdf)
-(with [Axel Niemeyer](https://sites.google.com/view/axelniemeyer))
+[The Effect of Social Networks on Market Efficiency](https://pauschae.github.io/files/jmp_pi_schaefer.pdf)
 
 <details>
   <summary>Abstract</summary>
-    An object is to be allocated among a number of agents.
-    The efficient allocation depends on the agents' information about their peers, but each agent wants the object for themself.
-    Monetary transfers are unavailable.
-    We consider mechanisms where it is a dominant strategy to report one's information truthfully.
-
-    On the negative side, deterministic mechanisms do not suffice outside of special cases.
-    Anonymous mechanisms cannot elicit any information.
-
-    On the positive side, there are simple mechanisms---jury mechanisms---that are optimal when there are three or fewer agents, approximately optimal in symmetric environments with many agents, and the only deterministic mechanisms satisfying a relaxed anonymity notion.
-    In a jury mechanism, each agent is either a juror or a candidate.
-    The jurors decide which of the candidates wins the object; jurors never win.
+This paper examines the effects of social networks on market efficiency and prices in a laboratory experiment with real-world friendships and a market with substitutes and complements. I make social networks exogenous by assigning real-world friends to different roles in the market.
+Friendships act like soft mergers in two ways: First, friendships between sellers of complements lower prices (increase efficiency), and friendships between sellers of substitutes increase prices (decrease efficiency). 
+Second, an adjusted common ownership model (linear directed altruism) rationalizes the data. 
 </details>
 
 
