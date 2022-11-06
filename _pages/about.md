@@ -33,7 +33,7 @@ Second, an adjusted common ownership model (linear directed altruism) rationaliz
 
 <h2>Working papers</h2>
 
-[Managing Bidder Learning in Retail Auctions](tba)
+[Managing Bidder Learning in Retail Auctions](https://simon-schulten.github.io/website/Managing_Bidder_Learning_in_Retail_Auctions.pdf)
 (with [Simon Schulten (his JMP)](https://www.simon-schulten.de/))
 
 <details>
