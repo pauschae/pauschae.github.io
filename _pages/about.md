@@ -21,7 +21,7 @@ You can find my CV [here](https://pauschae.github.io/files/CV.pdf).
 <h2>Job market paper</h2>
 
 [The Effect of Social Networks on Market Efficiency](https://pauschae.github.io/files/jmp_pi_schaefer.pdf)
-
+  
 I examine the impact of friendships on imperfectly competitive markets. First, I conduct a laboratory experiment to estimate the causal effect of real-world friendships on market prices and efficiency. 
 Second, I use the experimental data to test a general model of friendships among sellers in markets with substitutes and complements. 
 Like collusion, friendships among sellers of substitutes increase prices and decrease efficiency, whereas friendships between sellers of complements decrease prices and increase efficiency. 
