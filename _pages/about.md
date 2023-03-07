@@ -12,7 +12,7 @@ Hi!
 I am a researcher in Applied Microeconomics focusing on Behavioral Industrial Organization and Cultural/Institutional Economics.
 I research how social relationships interact with economic institutions. 
 
-I will be on the 2022/23 job market and available for interviews in December and January.
+I will join the University of Leicester's Bussines School starting September 2023.
 
 You can reach me at `paul.schaefer@uni-bonn.de`.
 
