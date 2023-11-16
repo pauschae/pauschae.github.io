@@ -12,9 +12,9 @@ Hi!
 I am a researcher in Applied Microeconomics focusing on Behavioral Industrial Organization and Cultural/Institutional Economics.
 I research how social relationships interact with economic institutions. 
 
-I will join the University of Leicester's Business School starting September 2023.
+I joined the University of Leicester's Business School starting September 2023.
 
-You can reach me at `paul.schaefer@uni-bonn.de`.
+You can reach me at `pis2@leicester.ac.uk`.
 
 You can find my CV [here](https://pauschae.github.io/files/CV.pdf).
 
