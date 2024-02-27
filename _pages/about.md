@@ -16,6 +16,9 @@ I joined the University of Leicester's Business School starting September 2023.
 
 You can reach me at `pis2@leicester.ac.uk`.
 
+Sign up for office hours [here](https://calendar.app.google/AYmMXssUP9avmADLA)
+Or drop by on Tuesday, 3-5 PM
+
 You can find my CV [here](https://pauschae.github.io/files/CV.pdf).
 
 <h2>Job market paper</h2>
