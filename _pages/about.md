@@ -12,7 +12,7 @@ Hi!
 I am a researcher in Applied Microeconomics focusing on Behavioral Industrial Organization and Cultural/Institutional Economics.
 I research how social relationships interact with economic institutions. 
 
-I joined the University of Leicester's Business School starting September 2023.
+I work at the University of Leicester's Business School.
 
 You can reach me at `pis2@leicester.ac.uk`.
 
