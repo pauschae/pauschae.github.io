@@ -27,6 +27,7 @@ You can find my CV [here](https://pauschae.github.io/files/CV.pdf).
 This paper investigates the impact of social relationships on imperfectly competitive markets. I model social relationships as linear directed altruism in markets with substitutes and complements. The model generates testable predictions, the most important of which being that social relationships among sellers of substitutes increase prices and reduce efficiency. In contrast, social relationships among sellers of complements reduce prices and increase efficiency. I test these predictions in a controlled laboratory network structure among market participants, drawing on real-world friendships. The results confirm the model's key insights. Additional treatments explore the robustness of these findings and the underlying mechanisms. Overall, the results suggest that economists can analyze social relationships in imperfectly competitive markets similarly to how they evaluate other forms of profit internalization, such as common ownership and mergers.
 </details>
 
+
 [Managing Bidder Learning in Retail Auctions](https://simon-schulten.github.io/website/Managing_Bidder_Learning_in_Retail_Auctions.pdf) (with [Simon Schulten](https://www.simon-schulten.de/))
 
 <details>
