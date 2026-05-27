@@ -16,7 +16,7 @@ You can reach me at `pis2@leicester.ac.uk`.
 
 Sign up for office hours [here](https://calendar.app.google/jJGg2Pza4B71rAJSA) or drop by on Friday, 3-5 PM at Mallard 001.
 
-You can find my CV [here](https://pauschae.github.io/files/CV.pdf).
+You can find my CV [here](https://pauschae.github.io/files/cv.pdf).
 
 ## Working papers
 
