@@ -20,7 +20,7 @@ You can find my CV [here](https://pauschae.github.io/files/cv.pdf).
 
 ## Working papers
 
-[The Effect of Social Relationships on Market Efficiency](https://pauschae.github.io/files/jmp_pi_schaefer.pdf)
+[Friendship in Imperfectly Competitive Markets: Experiments with Substitutes and Complements](https://pauschae.github.io/files/jmp_pi_schaefer.pdf)
 
 *Revise and Resubmit, Economic Journal*
 <details>
