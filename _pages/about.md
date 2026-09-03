@@ -46,12 +46,15 @@ We use large-scale survey data of German speaking villages from the 1930's to in
 
 ## Work in progress
 
-- Social Relationships and Beliefs about Preferences
-- Educational Choices and Anticipated Productivity Shocks
-- Measuring Cognitive Endurance
+- Social Relationships and Beliefs about Preferences (with Mert Gumren, Tingyan Jia)
+- Educational Choices and Anticipated Productivity Shocks (with Raghav Malhotra and Moritz Mendel)
+- Measuring Cognitive Endurance (with German Reyes)
 
 <style>
-.page__content details { margin: 0.15em 0 0.9em; }
+/* Pull each abstract up against the paper title above it */
+.page__content p:has(+ details) { margin-bottom: 0.15em; }
+.page__content details { margin: 0 0 1em; }
 .page__content details summary { cursor: pointer; }
+.page__content details p { margin-top: 0.3em; }
 .page__content h2 { margin-bottom: 0.4em; }
 </style>
