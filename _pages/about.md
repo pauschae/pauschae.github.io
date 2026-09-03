@@ -20,31 +20,25 @@ You can find my CV [here](https://pauschae.github.io/files/cv.pdf).
 
 ## Working papers
 
-[Friendship in Imperfectly Competitive Markets: Experiments with Substitutes and Complements](https://pauschae.github.io/files/jmp_pi_schaefer.pdf)
-
-*Revise and Resubmit, Economic Journal*
+[Friendship in Imperfectly Competitive Markets: Experiments with Substitutes and Complements](https://pauschae.github.io/files/jmp_pi_schaefer.pdf) — *Revise and Resubmit, Economic Journal*
 <details>
 <summary>Abstract</summary>
 This paper investigates the impact of social relationships on imperfectly competitive markets. I model social relationships as linear directed altruism in markets with substitutes and complements. The model generates testable predictions, the most important of which being that social relationships among sellers of substitutes increase prices and reduce efficiency. In contrast, social relationships among sellers of complements reduce prices and increase efficiency. I test these predictions in a controlled laboratory network structure among market participants, drawing on real-world friendships. The results confirm the model's key insights. Additional treatments explore the robustness of these findings and the underlying mechanisms. Overall, the results suggest that economists can analyze social relationships in imperfectly competitive markets similarly to how they evaluate other forms of profit internalization, such as common ownership and mergers.
 </details>
-<br />
-[Requiring an Explicit Lie to the Affected Party Reduces Misreporting in a Non-Incentive-Compatible Mechanism](https://ssrn.com/abstract=7396061)
 
-*Submitted*
+[Requiring an Explicit Lie to the Affected Party Reduces Misreporting in a Non-Incentive-Compatible Mechanism](https://ssrn.com/abstract=7396061) — *Submitted*
 <details>
 <summary>Abstract</summary>
 Can mechanisms reduce misreporting by changing whom a report is addressed to? In a holdout-problem experiment, I vary whether misreporting is an anonymous action or an explicit lie to the other affected participant. The message is delivered after play, so the two conditions are strategically identical in material payoffs, ruling out any cheap-talk channel. Requiring a direct lie halves upward misreporting (0.42 to 0.23, p = 0.007) and raises expected surplus from 79% to 92% of the first best.
 </details>
-<br />
+
 [Managing Bidder Learning in Retail Auctions](https://simon-schulten.github.io/website/Managing_Bidder_Learning_in_Retail_Auctions.pdf) (with [Simon Schulten](https://www.simon-schulten.de/))
 <details>
 <summary>Abstract</summary>
 When firms exploit behavioral biases it is natural to think that, eventually, consumers will learn to avoid their mistakes, which limits exploitation. Profit maximizing firms, however, have an incentive to undermine such learning. We study these learning dynamics in a multi-unit descending price auction setting with a simultaneous fixed price offer. We analyze 8 million bids from over 280,000 unique bidders in retail auctions. Consumers frequently bid more than the fixed price offered by the same seller. Depending on rival bidders' actions, those overbids sometimes lead to paying more than the fixed price (overpaying). We argue overpaying increases saliency of the consumers’ mistake by making it payoff relevant and thereby may affect consumer learning. Indeed, bidders who overpaid subsequently overbid less often and are more likely to refrain from submitting a bid compared to bidders who overbid but did not overpay. Methodologically, we discuss identification of our treatment effects using causal graphs and show how these treatment effects identify a three-type structural model of bidder behavior with learning dynamics.
 </details>
-<br />
-[Norm Prevalence and Interdependence: Evidence from a Large-Scale Historical Survey of German speaking Villages](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_118_2021.pdf) (with [Radost Holler](https://sites.google.com/view/radostholler/))
 
-*ECONtribute Discussion Paper No. 118*
+[Norm Prevalence and Interdependence: Evidence from a Large-Scale Historical Survey of German speaking Villages](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_118_2021.pdf) (with [Radost Holler](https://sites.google.com/view/radostholler/)) — *ECONtribute Discussion Paper No. 118*
 <details>
 <summary>Abstract</summary>
 We use large-scale survey data of German speaking villages from the 1930's to investigate drivers of cooperation, gender, and religious norms. Through geographic cluster analysis, we show that inter-regional variation explains only little heterogeneity in norms. Villages in the same physical and institutional environment still maintain different norms. We argue that local differences in the structure of social relationships can explain intra-regional heterogeneity in norms. We focus on a community's ability to transmit and enforce norms to derive theoretical links between correlates of community social relationships and the number of norms it maintains (norm prevalence). Empirically we find that: (1) norm prevalence is positively related to three correlates of community social relationships: religiously homogeneous villages, villages that border on other villages with a different majority religion, and villages with more within-village social gatherings; (2) villages with stronger community-level social relationships are also less likely to segment their reference group for the cooperation norm to smaller social units; (3) cooperation norms make other norms more likely.
@@ -52,8 +46,12 @@ We use large-scale survey data of German speaking villages from the 1930's to in
 
 ## Work in progress
 
-Social Relationships and Beliefs about Preferences
+- Social Relationships and Beliefs about Preferences
+- Educational Choices and Anticipated Productivity Shocks
+- Measuring Cognitive Endurance
 
-Educational Choices and Anticipated Productivity Shocks
-
-Measuring Cognitive Endurance
+<style>
+.page__content details { margin: 0.15em 0 0.9em; }
+.page__content details summary { cursor: pointer; }
+.page__content h2 { margin-bottom: 0.4em; }
+</style>
