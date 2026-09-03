@@ -20,7 +20,7 @@ You can find my CV [here](https://pauschae.github.io/files/cv.pdf).
 
 ## Working papers
 
-[The Effect of Social Relationships on Market Efficiency](https://pauschae.github.io/files/JMP_Rewrite_Experiment_First.pdf)
+[The Effect of Social Relationships on Market Efficiency](https://pauschae.github.io/files/jmp_pi_schaefer.pdf)
 
 *Revise and Resubmit, Economic Journal*
 <details>
@@ -31,6 +31,10 @@ This paper investigates the impact of social relationships on imperfectly compet
 [Requiring an Explicit Lie to the Affected Party Reduces Misreporting in a Non-Incentive-Compatible Mechanism](https://ssrn.com/abstract=7396061)
 
 *Submitted*
+<details>
+<summary>Abstract</summary>
+Can mechanisms reduce misreporting by changing whom a report is addressed to? In a holdout-problem experiment, I vary whether misreporting is an anonymous action or an explicit lie to the other affected participant. The message is delivered after play, so the two conditions are strategically identical in material payoffs, ruling out any cheap-talk channel. Requiring a direct lie halves upward misreporting (0.42 to 0.23, p = 0.007) and raises expected surplus from 79% to 92% of the first best.
+</details>
 <br />
 [Managing Bidder Learning in Retail Auctions](https://simon-schulten.github.io/website/Managing_Bidder_Learning_in_Retail_Auctions.pdf) (with [Simon Schulten](https://www.simon-schulten.de/))
 <details>
